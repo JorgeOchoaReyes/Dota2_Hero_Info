@@ -5,7 +5,9 @@ Android App for all Dota 2 Heroes (7.30)
 
 # Main Screen 
 
-![image](https://user-images.githubusercontent.com/60721681/158273857-9f505ff7-e913-4df0-b668-e394d4f5dd4e.png)
+![image](https://user-images.githubusercontent.com/60721681/158274215-9f85eb64-4fa4-41c1-b7db-a7da025e7e9c.png)
+
+![image](https://user-images.githubusercontent.com/60721681/158274248-b916ed41-631e-4484-abae-b5dfcc96271b.png)
 
 
 # Hero Screen 
